@@ -1,0 +1,19 @@
+# --- Ejecutables y binarios ---
+*.exe
+*.o
+*.out
+sistema_estudiantes
+sistema_estudiantes.exe
+
+# --- Carpetas de Visual Studio Code ---
+.vscode/
+*.code-workspace
+
+# --- Archivos de sistema ---
+Thumbs.db
+.DS_Store
+
+# --- Archivos temporales de compilación ---
+*.ilk
+*.pdb
+*.sln
