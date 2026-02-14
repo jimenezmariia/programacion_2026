@@ -1,5 +1,4 @@
-### Archivo Celular.h
-´´´cpp
+
 #ifndef CELULAR_H
 #define CELULAR_H
 
