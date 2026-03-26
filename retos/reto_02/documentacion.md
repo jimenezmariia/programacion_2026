@@ -1,4 +1,4 @@
-# 📖 Documentación Técnica — Cliente de Terminal (C++)
+# Documentación Técnica — Cliente de Terminal (C++)
 
 ## 1. Resumen General
 `gpt_terminal` es una herramienta ligera de línea de comandos desarrollada en **C++17**. Permite interactuar con modelos de lenguaje (LLM) a través de la API de **Groq**, enviando prompts y recibiendo respuestas directamente en la terminal.
