@@ -17,3 +17,15 @@ Thumbs.db
 *.ilk
 *.pdb
 *.sln 
+
+# Secretos
+.env
+
+# Ejecutables de Windows
+*.exe
+gpt_terminal
+
+# Carpetas de compilación y VS Code
+build/
+bin/
+obj/
