@@ -1,0 +1,8 @@
+[
+  {"rol": "usuario", "contenido": "Hola"},
+  {"rol": "sistema", "contenido": "Â¡Hola! Â¿CÃ³mo puedo ayudarte hoy?"},
+  {"rol": "usuario", "contenido": "Qu‚ tal"},
+  {"rol": "sistema", "contenido": "Qu‚ tal"},
+  {"rol": "usuario", "contenido": "C¢mo est s?"},
+  {"rol": "sistema", "contenido": "C¢mo est s?"}
+]

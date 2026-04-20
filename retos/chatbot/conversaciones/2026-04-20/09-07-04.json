@@ -1,0 +1,10 @@
+[
+  {"rol": "usuario", "contenido": "Hola"},
+  {"rol": "sistema", "contenido": "¡Hola! ¿Cómo puedo ayudarte hoy?"},
+  {"rol": "usuario", "contenido": "Qu� tal"},
+  {"rol": "sistema", "contenido": "Qu� tal"},
+  {"rol": "usuario", "contenido": "Como estas"},
+  {"rol": "sistema", "contenido": "Como estas"},
+  {"rol": "usuario", "contenido": "Examen"},
+  {"rol": "sistema", "contenido": "¡Mucho éxito en tu examen de mañana!"}
+]
